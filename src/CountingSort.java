@@ -1,7 +1,7 @@
 /**
  * author: Ragav Ramakrishnan
- * The comparison model for sorting cannot do better than 'nlgn'. Counting sort usus the power
- * of RAM to sort in linear time. 
+ * The comparison model for sorting cannot do better than 'nlgn'. Counting sort uses the 
+ * power of RAM to sort in linear time. 
  */
 import java.util.Arrays;
 
